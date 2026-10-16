@@ -1,4 +1,4 @@
-name: Build Mono debug APK
+name: Build Mono2.0 debug APK
 
 on:
   workflow_dispatch:
